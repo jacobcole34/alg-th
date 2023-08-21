@@ -49,7 +49,7 @@ Regards, Matt
 
 Matt,
 
-I hope this email finds you well. Please rest assured that your feedback is vital for our improvement, so thank you very much for taking the time to voice the challenges you're working through with the platform. I'm going to share your thoughts with engineers on the product team internally. I completely understand that changes in the interface can present different challenges. However, I'd like to try to assist you in the meantime with some possible solutions.
+I hope this email finds you well. Please rest assured that your feedback is vital for our improvement, so thank you very much for taking the time to voice the challenges you're working through with the platform. I'm going to share your thoughts with engineers on the product team internally. I'm sorry to hear about the challenges, and I completely understand that changes in the interface can affect your workflow. However, I'd like to try to assist you in the meantime with some possible solutions.
 
 If you're working with a single Index for an extended period of time, I've found it helpful to bookmark it for quick reference. From there, you're just two clicks away to Clear or Delete that Index.
 
