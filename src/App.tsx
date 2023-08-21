@@ -81,7 +81,7 @@ function Hit({ hit }: HitProps) {
             <strong>Cast:</strong> {hit.cast.join(', ')}
           </p>
           <p>
-            <strong>Plot:</strong>{' '}
+            <strong>Summary:</strong>{' '}
             <Highlight attribute="extract" hit={hit} />
           </p>
         </div>
