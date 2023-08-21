@@ -41,7 +41,7 @@ Ideally and with more time, these would be actual ratings pulled using the IMDB,
 
 Filtering was added by film genre.
 
-The UI Demo and final implementation share a general aesthetic, although I did not get to implement the grid vs. list view.
+The UI Demo and final implementation share the same general aesthetic, although I did not get to implement the grid vs. list view.
 
 Finally, automating indexing was accomplished using Connectors and a remotely-hosted JSON file.
 
