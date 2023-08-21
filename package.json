@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "build": "parcel build index.html",
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build"
   },
   "dependencies": {
     "algoliasearch": "4",
@@ -15,8 +17,10 @@
   "devDependencies": {
     "@types/react": "18.0.15",
     "@types/react-dom": "18.0.6",
+    "gh-pages": "^6.0.0",
     "parcel": "2.5.0",
     "process": "^0.11.10",
     "typescript": "4.7.4"
-  }
+  },
+  "homepage": "http://jacobcole34.github.io/alg-th"
 }
