@@ -13,8 +13,7 @@ import {
 import './App.css';
 
 const searchClient = algoliasearch(
-  'AU8TK6GQN0',
-  '69d0974d077c1a1841e6dc2579a3af7e'
+// removed API key / app info
 );
 
 export function App() {
